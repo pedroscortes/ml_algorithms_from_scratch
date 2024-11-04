@@ -24,5 +24,6 @@ This project serves multiple purposes:
 - XGBoost
 
 
-⚠️ Note
+### ⚠️ Note
+
 This repo is a work in progress! Star the repository to stay updated with new implementations.
