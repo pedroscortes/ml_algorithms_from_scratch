@@ -12,3 +12,15 @@ This project serves multiple purposes:
 - Reference implementation for common ML algorithms
 - Practice ground for Python programming and ML concepts
 
+### ✅ Implemented Algorithms
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machines
+- K-Nearest Neighbors
+- Naive Bayes
+- XGBoost
+
+⚠️ This repo is a work in progress! ⚠️
