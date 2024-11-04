@@ -23,4 +23,6 @@ This project serves multiple purposes:
 - Naive Bayes
 - XGBoost
 
-⚠️ This repo is a work in progress! ⚠️
+
+⚠️ Note
+This repo is a work in progress! Star the repository to stay updated with new implementations.
