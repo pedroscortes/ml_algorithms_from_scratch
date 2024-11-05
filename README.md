@@ -23,6 +23,7 @@ This project serves multiple purposes:
 - Naive Bayes
 - XGBoost
 - Multi-layer Perceptron Regressor
+- Multi-layer Perceptron Classifier
 
 
 ### ⚠️ Note
