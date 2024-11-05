@@ -22,6 +22,7 @@ This project serves multiple purposes:
 - K-Nearest Neighbors
 - Naive Bayes
 - XGBoost
+- Multi-layer Perceptron Regressor
 
 
 ### ⚠️ Note
