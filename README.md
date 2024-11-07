@@ -12,6 +12,15 @@ This project serves multiple purposes:
 - Reference implementation for common ML algorithms
 - Practice ground for Python programming and ML concepts
 
+
+Each implementation includes:
+
+- Detailed mathematical explanations
+- Step-by-step implementation walkthrough
+- Example usage and test cases
+- Performance comparisons with sklearn implementations
+
+
 ### ✅ Implemented Algorithms
 
 - Linear Regression
@@ -28,4 +37,4 @@ This project serves multiple purposes:
 
 ### ⚠️ Note
 
-This repo is a work in progress! Star the repository to stay updated with new implementations.
+This repository is actively maintained and updated. Star the repository to stay updated with new implementations!
