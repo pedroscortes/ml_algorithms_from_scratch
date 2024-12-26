@@ -33,6 +33,8 @@ Each implementation includes:
 - XGBoost
 - Multi-layer Perceptron Regressor
 - Multi-layer Perceptron Classifier
+- Elastic Net Regression
+- K-Means Clustering
 
 
 ### ⚠️ Note
