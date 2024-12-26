@@ -35,6 +35,7 @@ Each implementation includes:
 - Multi-layer Perceptron Classifier
 - Elastic Net Regression
 - K-Means Clustering
+- Hierarchical Clustering
 
 
 ### ⚠️ Note
