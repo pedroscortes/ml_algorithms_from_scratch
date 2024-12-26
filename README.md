@@ -36,6 +36,7 @@ Each implementation includes:
 - Elastic Net Regression
 - K-Means Clustering
 - Hierarchical Clustering
+- DBSCAN
 
 
 ### ⚠️ Note
