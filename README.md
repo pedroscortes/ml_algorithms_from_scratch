@@ -37,6 +37,7 @@ Each implementation includes:
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
+- Principal Component Analysis
 
 
 ### ⚠️ Note
