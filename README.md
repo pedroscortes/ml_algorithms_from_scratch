@@ -38,6 +38,7 @@ Each implementation includes:
 - Hierarchical Clustering
 - DBSCAN
 - Principal Component Analysis
+- t-SNE
 
 
 ### ⚠️ Note
