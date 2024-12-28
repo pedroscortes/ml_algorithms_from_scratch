@@ -39,6 +39,7 @@ Each implementation includes:
 - DBSCAN
 - Principal Component Analysis
 - t-SNE
+- Convolutional Neural Network
 
 
 ### ⚠️ Note
