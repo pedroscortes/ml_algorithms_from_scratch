@@ -39,7 +39,8 @@ Each implementation includes:
 - DBSCAN
 - Principal Component Analysis
 - t-SNE
-- Convolutional Neural Network
+- Convolutional Neural Networks (basic convolution operations, pooling layers and LeNet-5)
+- Recurrent Neural Networks (basic RNN, LSTM)
 
 
 ### ⚠️ Note
