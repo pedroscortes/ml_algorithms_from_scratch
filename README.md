@@ -28,6 +28,8 @@ Each implementation includes:
 - Decision Trees
 - Random Forest
 - Support Vector Machines
+- Ridge Regression
+- Lasso Regression
 - K-Nearest Neighbors
 - Naive Bayes
 - XGBoost
