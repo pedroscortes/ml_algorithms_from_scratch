@@ -43,6 +43,9 @@ Each implementation includes:
 - t-SNE
 - Convolutional Neural Networks (basic convolution operations, pooling layers and LeNet-5)
 - Recurrent Neural Networks (basic RNN, LSTM)
+- Transformers
+- Autoencoders
+- Variational Autoencoders
 
 
 ### ⚠️ Note
